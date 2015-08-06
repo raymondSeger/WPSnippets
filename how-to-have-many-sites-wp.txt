@@ -1,0 +1,5 @@
+// put this in the wp-config.php
+define('WP_HOME','http://nameOfSite.com/latest');
+define('WP_SITEURL','http://nameOfSite.com/latest');
+
+// database wp-options and change the site_url
